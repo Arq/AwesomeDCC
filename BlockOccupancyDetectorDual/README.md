@@ -28,8 +28,10 @@ The "Occupied" signal is logic low. Outputs can be tied to any input ports.
 * See schematic and board files in **documents** folder
 
 * Board 3D View \
- ![3d View](./documents/BlockOccupancyDetectorDual.jpg)
-
+ ![3d View](./documents/BlockOccupancyDetectorDual-3D.jpg)
+* Board final \
+ ![Final](./documents/BlockOccupancyDetectorDual.jpg)
+* Gerber files: [BlockOccupancyDetectorDual-Rev1.0_gerber.zip](./documents/BlockOccupancyDetectorDual-Rev1.0_gerber.zip)
 
 ## BOM
 |#|Reference|Qty|Value|Footprint|

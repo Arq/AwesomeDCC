@@ -26,7 +26,12 @@ Detektor może być stosowany w systemach cyfrowych DCC, charakteryzuje się ą 
 # Projekt
 * plik schematu i projekt płytki znajdują się w katalogu **documents**
 * Widok 3D (rozmieszczenie elementów)\
- ![3d View](./documents/BlockOccupancyDetectorDual.jpg)
+ ![3d View](./documents/BlockOccupancyDetectorDual-3D.jpg)
+* Gotowa płytka \
+ ![Final](./documents/BlockOccupancyDetectorDual.jpg)
+* Pliki gerber: [BlockOccupancyDetectorDual-Rev1.0_gerber.zip](./documents/BlockOccupancyDetectorDual-Rev1.0_gerber.zip)
+
+
 
 
 ## Lista elementów (BOM)
